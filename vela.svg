@@ -209,11 +209,11 @@
  borderopacity="1.0"
  inkscape:pageopacity="0.0"
  inkscape:pageshadow="2"
- inkscape:zoom="0.26608167"
- inkscape:cx="3993.7176"
- inkscape:cy="917.27849"
+ inkscape:zoom="0.53216333"
+ inkscape:cx="2059.221"
+ inkscape:cy="-647.2249"
  inkscape:document-units="px"
- inkscape:current-layer="g78635"
+ inkscape:current-layer="layer1"
  showgrid="false"
  fit-margin-top="0"
  fit-margin-left="0"
@@ -4360,7 +4360,7 @@
 </g>
 </g>
 <g
- id="g16505">
+ id="g3884">
 <rect
  y="1829.0582"
  x="-2040.902"
@@ -4562,5 +4562,236 @@
  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ecf0f1;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold">4</tspan></text>
 </g>
 </g>
+<g
+ id="g3918">
+<rect
+ style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+ id="rect3739"
+ width="992.12598"
+ height="744.09448"
+ x="-862.90198"
+ y="1829.0582" />
+<path
+ inkscape:connector-curvature="0"
+ id="path3882"
+ d="m 82.661061,2541.1054 -899.000101,0"
+ style="fill:none;stroke:#2c3e50;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+ sodipodi:nodetypes="cc" />
+</g>
+<text
+ sodipodi:linespacing="125%"
+ id="text3743"
+ y="1932.1527"
+ x="-367.1759"
+ style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ xml:space="preserve"><tspan
+ y="1932.1527"
+ x="-367.1759"
+ sodipodi:role="line"
+ id="tspan3745">MONTHLY EXPENSES</tspan></text>
+<rect
+ style="fill:#b7c8c4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+ id="rect3804"
+ width="781.29919"
+ height="3"
+ x="-757.48859"
+ y="2107.3506" />
+<rect
+ y="2157.3289"
+ x="-757.48859"
+ height="3"
+ width="781.29919"
+ id="rect3839"
+ style="fill:#b7c8c4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+<rect
+ style="fill:#b7c8c4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+ id="rect3842"
+ width="781.29919"
+ height="3"
+ x="-757.48859"
+ y="2207.3074" />
+<rect
+ y="2257.2856"
+ x="-757.48859"
+ height="3"
+ width="781.29919"
+ id="rect3844"
+ style="fill:#b7c8c4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+<rect
+ style="fill:#b7c8c4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+ id="rect3846"
+ width="781.29919"
+ height="3"
+ x="-757.48859"
+ y="2307.2642" />
+<rect
+ y="2055.2642"
+ x="-757.48859"
+ height="3"
+ width="781.29919"
+ id="rect3922"
+ style="fill:#b7c8c4;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+<g
+ id="g4003"
+ transform="translate(0,-1.1673087)">
+<text
+ sodipodi:linespacing="125%"
+ id="text3928"
+ y="2094.0986"
+ x="-677.76935"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2094.0986"
+ x="-677.76935"
+ id="tspan3930"
+ sodipodi:role="line">TOILETRIES</tspan></text>
+<text
+ xml:space="preserve"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ x="-117.76935"
+ y="2096.0986"
+ id="text3944"
+ sodipodi:linespacing="125%"><tspan
+ sodipodi:role="line"
+ id="tspan3946"
+ x="-117.76935"
+ y="2096.0986"
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"><tspan
+ id="tspan3948"
+ style="font-weight:normal">₹</tspan> 2,000</tspan></text>
+</g>
+<g
+ id="g3996"
+ transform="translate(0,4.8111459)">
+<text
+ sodipodi:linespacing="125%"
+ id="text3932"
+ y="2141.1382"
+ x="-678.48938"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2141.1382"
+ x="-678.48938"
+ id="tspan3934"
+ sodipodi:role="line">STATIONARY</tspan></text>
+<text
+ sodipodi:linespacing="125%"
+ id="text3950"
+ y="2140.0986"
+ x="-117.76935"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2140.0986"
+ x="-117.76935"
+ id="tspan3952"
+ sodipodi:role="line"><tspan
+ style="font-weight:normal"
+ id="tspan3954">₹</tspan> 2,000</tspan></text>
+</g>
+<g
+ id="g3989"
+ transform="translate(0,6.7896004)">
+<text
+ sodipodi:linespacing="125%"
+ id="text3924"
+ y="2188.219"
+ x="-679.20935"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2188.219"
+ x="-679.20935"
+ id="tspan3926"
+ sodipodi:role="line">FOOD &amp; CONDIMENTS</tspan></text>
+<text
+ xml:space="preserve"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ x="-117.76935"
+ y="2188.0986"
+ id="text3956"
+ sodipodi:linespacing="125%"><tspan
+ sodipodi:role="line"
+ id="tspan3958"
+ x="-117.76935"
+ y="2188.0986"
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"><tspan
+ id="tspan3960"
+ style="font-weight:normal">₹</tspan> 14,000</tspan></text>
+</g>
+<g
+ id="g3982"
+ transform="translate(0,12.767994)">
+<text
+ xml:space="preserve"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ x="-679.20935"
+ y="2232.8901"
+ id="text3936"
+ sodipodi:linespacing="125%"><tspan
+ sodipodi:role="line"
+ id="tspan3938"
+ x="-679.20935"
+ y="2232.8901"
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold">ELECTRICITY</tspan></text>
+<text
+ sodipodi:linespacing="125%"
+ id="text3962"
+ y="2232.0986"
+ x="-117.76935"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2232.0986"
+ x="-117.76935"
+ id="tspan3964"
+ sodipodi:role="line"><tspan
+ style="font-weight:normal"
+ id="tspan3966">₹</tspan> 2,000</tspan></text>
+</g>
+<g
+ id="g3974"
+ transform="translate(0,18.746388)">
+<text
+ sodipodi:linespacing="125%"
+ id="text3940"
+ y="2276.8901"
+ x="-679.20935"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2276.8901"
+ x="-679.20935"
+ id="tspan3942"
+ sodipodi:role="line">FUEL &amp; TRANSPORTATION</tspan></text>
+<text
+ xml:space="preserve"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ x="-117.76935"
+ y="2276.0986"
+ id="text3968"
+ sodipodi:linespacing="125%"><tspan
+ sodipodi:role="line"
+ id="tspan3970"
+ x="-117.76935"
+ y="2276.0986"
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"><tspan
+ id="tspan3972"
+ style="font-weight:normal">₹</tspan> 2,000</tspan></text>
+</g>
+<text
+ sodipodi:linespacing="125%"
+ id="text4012"
+ y="2513.0706"
+ x="-397.76935"
+ style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#51606f;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+ xml:space="preserve"><tspan
+ style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#51606f;fill-opacity:1;font-family:Economica;-inkscape-font-specification:Economica Bold"
+ y="2513.0706"
+ x="-397.76935"
+ id="tspan4014"
+ sodipodi:role="line">* expenses adjusted for Nov, 2014</tspan></text>
 </g>
 </svg>
